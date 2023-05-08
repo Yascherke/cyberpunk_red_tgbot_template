@@ -1,0 +1,11 @@
+.env
+env/
+__pycache__/
+__pycache__
+storage.txt
+storage_programs.txt
+test.py
+poetry.lock
+pyproject.toml
+.replit
+replit.nix
